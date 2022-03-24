@@ -4,6 +4,8 @@
 ```
 npm install
 ```
+npm install vue-router --save
+npm install vue bootstrap-vue bootstrap
 
 ### Compiles and hot-reloads for development
 ```
