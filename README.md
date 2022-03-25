@@ -7,6 +7,8 @@ npm install
 npm install vue-router --save
 npm install vue bootstrap-vue bootstrap
 
+npm install --save-dev eslint eslint-plugin-vue
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
